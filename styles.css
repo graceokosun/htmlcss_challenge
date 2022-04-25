@@ -22,9 +22,15 @@ ul li a {
     font-weight: bold;
 }
 .touch {
-    padding: 15px;
+    padding: 10px;
     background-color: white;
+    border: inherit;
+    color: inherit;
+    outline: black;
+    outline-style: solid;
+    text-decoration: none;
 }
+
 .main {
     background-image: url("istockimage.png");
     background-size: cover;
