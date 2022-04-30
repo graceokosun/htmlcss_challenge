@@ -30,7 +30,6 @@ ul li a {
     outline-style: solid;
     text-decoration: none;
 }
-
 .main {
     background-image: url("istockimage.png");
     background-size: cover;
@@ -56,10 +55,12 @@ p {
     color: white;
     position: relative;
 }
-.project {
+.signin {
     font-size: small;
     text-align: center;
     padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
     position: relative;
     font-weight: 400;
     color: white;
